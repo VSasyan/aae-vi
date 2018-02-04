@@ -10,7 +10,7 @@ Doit contenir une *en-tête* et au moins les colonnes :
 * `nom_adh` : nom adhérent ;
 * `prenom_adh` : prénom adhérent.
 
-Exemple : [test-data/import_adherents_2017.csv](test-data/import_adherents_2017.csv)
+Exemple : [data-test/import_adherents_2017.csv](test-data/import_adherents_2017.csv)
 
 
 ## Fichier des adhérents
@@ -23,7 +23,7 @@ Doit contenir une *en-tête* et les 4 colonnes :
 * `nom_f` : nom du fillot ;
 * `prenom_f` : prénom du fillot.
 
-Exemple : [test-data/import_relations_2017.csv](test-data/import_relations_2017.csv)
+Exemple : [data-test/import_relations_2017.csv](test-data/import_relations_2017.csv)
 
 
 ## Utilisation
