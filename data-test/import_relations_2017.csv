@@ -1,0 +1,5 @@
+nom_p,prenom_p,nom_f,prenom_f
+ParrainNom,ParrainPrénom,FillotNom,FillotPrénom
+ParrainNom,ParrainPrénom,Erreur,Erreur1
+Erreur,Erreur2,FillotNom,FillotPrénom
+Albert,Erreur3,Marie,Erreur4
