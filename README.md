@@ -1,4 +1,4 @@
-# Importation des relation Visage
+# Importation des relations Visage
 
 
 ## Fichier des adhérents
@@ -36,7 +36,7 @@ python3 vi.py
 
 ## Sortie du test
 
-Voici la sortie attendue avec les ficheir de test :
+Voici la sortie attendue avec les fichiers de test :
 
 ```
 INSERT INTO `galette_aae_visage_relation`(`parrain`, `fillot`) VALUES (1, 2)
